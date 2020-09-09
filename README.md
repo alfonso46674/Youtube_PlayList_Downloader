@@ -1,4 +1,4 @@
-# Youtube Playlist Donwloader
+# Youtube Playlist Downloader
 
 Downloads all of the videos contained in a Youtube playlist, given the id of said playlist.
 
