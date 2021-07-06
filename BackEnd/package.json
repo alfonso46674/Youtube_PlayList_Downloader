@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/alfonso46674/Youtube_PlayList_Downloader#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "googleapis": "^51.0.0",
     "jest": "^26.0.1",
     "mongoose": "^5.9.15",
